@@ -6,3 +6,6 @@ The plagiarism checker does the following: (also consider this as our todos list
 3. performs tf-idf vectorization on the contents of the files<br/>
 4. Find cosine similarity between the resulting vectors<br/>
 5. return similarity score, calculate precision and recall<br/>
+
+Citation for the corpus:
+Clough, P. and Stevenson, M. Developing A Corpus of Plagiarised Short Answers, Language Resources and Evaluation: Special Issue on Plagiarism and Authorship Analysis, In Press
