@@ -16,5 +16,5 @@ The script checks similarity for ".txt" files as of now.<br/>
 7. Calculate precision and recall<br/>
 <br/>
 <h2>Citation for the corpus:</h2>
-<b>The training and test sets used in this project are selected texxt files from the following corpus:</b><br/>
+<b>The training and test sets used in this project are selected text files from the following corpus:</b><br/>
 Clough, P. and Stevenson, M. Developing A Corpus of Plagiarised Short Answers, Language Resources and Evaluation: Special Issue on Plagiarism and Authorship Analysis, In Press
