@@ -1,6 +1,6 @@
 # plagiarism-checker
 
-Setup and compilation:
+Setup and compilation:<br/>
 The script consists of a Jupyter notebook.<br/>
 The training files should be moved into the "texts" folder, and the testing files should be moved into the "test" folder.<br/>
 The script checks similarity for ".txt" files as of now.<br/>
