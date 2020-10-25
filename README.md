@@ -2,6 +2,7 @@
 
 <h2>Setup and compilation:</h2>
 The script consists of a Jupyter notebook.<br/>
+The file plag_check.py is the same script as the Jupyter notebook, This file was used to generate the documentation<br/>
 The training files should be moved into the "texts" folder, and the testing files should be moved into the "test" folder.<br/>
 The script checks similarity for ".txt" files as of now.<br/>
 <br/>
