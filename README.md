@@ -15,7 +15,6 @@ The documentation is located in the "html" file.<br/>
 4. Find cosine similarity between the resulting vectors<br/>
 5. Ranks the training documents based on similarity to the testing set<br/>
 6. Return the rank list with similarity percentage<br/>
-7. Calculate precision and recall<br/>
 <br/>
 <h2>Citation for the corpus:</h2>
 <b>The training and test sets used in this project are selected text files from the following corpus:</b><br/>
