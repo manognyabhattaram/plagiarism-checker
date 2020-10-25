@@ -5,7 +5,7 @@ The script consists of a Jupyter notebook.<br/>
 The file "plag_check.py" is the same script as the Jupyter notebook, this file was used to generate the documentation.<br/>
 The training files should be moved into the "texts" folder, and the testing files should be moved into the "test" folder.<br/>
 The script checks similarity for ".txt" files as of now.<br/>
-The documentation is located in the "html" file.<br/>
+The documentation is located in the "html" folder.<br/>
 <br/>
 <b>Required modules:</b><br/>
 If running the file "plag_check.py", the NLTK, num2words, pandas and numpy modules must be installed on the system.<br/>
